@@ -15,26 +15,6 @@ The aim is to build reliable machine learning and deep learning models that fore
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone the repository:  
-```bash
-git clone https://github.com/your-username/photovoltaic-energy-prediction.git
-cd photovoltaic-energy-prediction
-```
-
-2. Install required dependencies:  
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the Jupyter Notebook:  
-```bash
-jupyter notebook pv_energy_prediction.ipynb
-```
-
----
-
 ## 📊 Dataset
 
 The project uses the **HS Ansbach Photovoltaic Data**, which includes:  
@@ -62,9 +42,3 @@ This dataset provides a practical foundation for energy forecasting.
 - Solar energy policy and planning  
 
 ---
-
-## 👨‍💻 Author
-
-**Advait Mahesh Chaudhari**  
-Master’s in Smart Energy Systems – Hochschule Ansbach  
-[LinkedIn](https://www.linkedin.com/in/advait-chaudhari-20m1999) | [GitHub](https://github.com/Advait20399)  
